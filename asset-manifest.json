@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.89c551a8.css",
+    "main.js": "/portfolio-react/static/js/main.05bb2d0b.js",
+    "static/media/proyecto-5.png": "/portfolio-react/static/media/proyecto-5.7b3bd17b92165592eb1f.png",
+    "static/media/proyecto-1.png": "/portfolio-react/static/media/proyecto-1.81864b83e3ed9daa66ae.png",
+    "static/media/me.png": "/portfolio-react/static/media/me.2e59d9a191dc8f9cf543.png",
+    "static/media/proyecto-6.png": "/portfolio-react/static/media/proyecto-6.c0e50a1cd82912754985.png",
+    "static/media/proyecto-7.png": "/portfolio-react/static/media/proyecto-7.45b0698e9b13736e9d00.png",
+    "static/media/CV-PoloFrizMatias.pdf": "/portfolio-react/static/media/CV-PoloFrizMatias.3c8609a0a24b0e63cb11.pdf",
+    "static/media/foto-Polo1.jpeg": "/portfolio-react/static/media/foto-Polo1.6ed715c8f2521a8d0f9b.jpeg",
+    "static/media/proyecto-4.png": "/portfolio-react/static/media/proyecto-4.05de0386bf37b1d51dc2.png",
+    "static/media/proyecto-3.png": "/portfolio-react/static/media/proyecto-3.d78cf5daed3369c89c52.png",
+    "static/media/proyecto-2.png": "/portfolio-react/static/media/proyecto-2.2342de83a3de843df0b6.png",
+    "index.html": "/portfolio-react/index.html",
+    "main.89c551a8.css.map": "/portfolio-react/static/css/main.89c551a8.css.map",
+    "main.05bb2d0b.js.map": "/portfolio-react/static/js/main.05bb2d0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89c551a8.css",
+    "static/js/main.05bb2d0b.js"
+  ]
+}
