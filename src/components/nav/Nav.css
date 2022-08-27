@@ -1,0 +1,34 @@
+/* NAV FLOTANTE*/
+nav {
+  background: rgb(0, 0, 0, 0.3);
+  width: max-content; /* como maximo el contenido total*/
+  display: block;
+  padding: 0.7rem 1.7rem; /*arriba, abajo // derecha, izquierda*/
+  z-index: 2;
+  position: fixed; /* posicion fija*/
+  left: 50%;
+  transform: translateX(-50%); /* centrado */
+  bottom: 2rem; /* abajo */
+  display: flex;
+  gap: 0.8rem; /* espacio entre iconos */
+  border-radius: 3rem;
+  backdrop-filter: blur(15px);
+}
+
+nav a {
+  background: transparent;
+  padding: 0.9rem;
+  border-radius: 50%;
+  display: flex;
+  color: var(--color-light); /* color iconos */
+  font-size: 1.1rem; /* tamaño iconos */
+}
+
+nav a:hover {
+  background: rgb(0, 0, 0, 0.5);
+}
+
+nav a.active {
+  background: var(--color-primary);
+  color: var(--color-bg);
+}
